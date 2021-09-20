@@ -1,0 +1,6 @@
+#!/bin/bash
+
+python3 -m unittest challenger-01/test.py
+python3 -m unittest challenger-02/test.py
+python3 -m unittest challenger-03/test.py
+python3 -m unittest challenger-04/test.py
