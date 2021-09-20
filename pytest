@@ -1,6 +1,0 @@
-#!/bin/bash
-
-cd challenger-01 && python3 -m unittest test.py
-cd ../challenger-02 && python3 -m unittest test.py
-cd ../challenger-03 && python3 -m unittest test.py
-cd ../challenger-04 && python3 -m unittest test.py
