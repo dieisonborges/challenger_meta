@@ -1,8 +1,9 @@
 # challenger_meta
 
-[![Build Status](https://app.travis-ci.com/dieisonborges/challenger_meta.svg?branch=main)](https://app.travis-ci.com/dieisonborges/challenger_meta)
+[<img src="https://www.meta.com.br/wp-content/uploads/2021/01/1.png" width="250"/>](meta.png)
 
-![Meta](https://www.meta.com.br/wp-content/uploads/2021/01/1.png)
+# Build
+[![Build Status](https://app.travis-ci.com/dieisonborges/challenger_meta.svg?branch=main)](https://app.travis-ci.com/dieisonborges/challenger_meta)
 
 # DESAFIO
 ## DESENVOLVEDOR FULLSTACK
