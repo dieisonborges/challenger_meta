@@ -1,6 +1,6 @@
 # challenger_meta
 
-[<img src="https://www.meta.com.br/wp-content/uploads/2021/06/logo_white.png" width="250"/>](meta.png)
+[<img src="https://meta.compleo.com.br/LogoCarreiras" width="250"/>](meta.png)
 
 # Build
 [![Build Status](https://app.travis-ci.com/dieisonborges/challenger_meta.svg?branch=main)](https://app.travis-ci.com/dieisonborges/challenger_meta)
